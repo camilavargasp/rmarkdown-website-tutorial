@@ -2,6 +2,28 @@
 title: "Basic workflow"
 ---
 
+In order to make the link associated to your GitHub user name work (last step in First Observations), you will have to "Build" the web site in R Studio.
+Go to the Build tab in R and press ***Build Website***. 
+You might need to install some packages before this step. Go ahead an install them and then try agin ***Build Website***.
+
+
+
+![](https://mazu.nceas.ucsb.edu/rstudio/files/github/rmarkdown-website-tutorial/images/Built%20websit.png)
+
+
+Onece this process is completed you want to Commit and *sync* the new files created by R to your GitHub.
+
+Before sync, make sure you have created some changes to the existing files (eg. Change the name of the author and make the link go to your personal GitHub profile)
+
+Go to the Git tab, select all the files that need to be Commited and ***Commit**. Then *Pull* and *Push* to make sure everything is sync.
+When this is completed, you should be able to open the link with your GitHub username through GitHub.
+
+
+
+![](https://mazu.nceas.ucsb.edu/rstudio/files/github/rmarkdown-website-tutorial/images/Link.png)
+
+---
+
 Building websites uses the same reproducible workflow you can use for your analyses and collaborations. It is very iterative. You can do it all from RStudio, with a combination of clicking or typing commands as you feel comfortable. 
 
 1. add content (text, code, images, etc) in an RMarkdown file

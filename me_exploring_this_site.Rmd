@@ -1,0 +1,24 @@
+---
+title: "Me exploring this Site"
+---
+
+#My First Website in R
+
+This is the first time I try to do a webpage in R (and not in Ra as well). I had a little understanfig on how GitHub works and some kowlege about R, R Studio and R Markdown (this one I learn today).
+
+Then I ventue to use this tutorial to see how this actually works.
+Here i am, creating this new tab as a way to encourage who ever reads this (probably no one) to try this! 
+
+The R - GitHub combination is really exiting. There is a whole world out there. You can get really creative. 
+
+
+
+#Creating a new tab
+
+In the **Your Turn** section you find the *Add new page* header which basically tells you to open the `_site.yml` and thats it.
+
+Well guess what, thats not all you need to do. You actually have to create the new page. 
+
+Adding it to `_site.yml` is just one step.
+
+Here I will guide you through my experience
