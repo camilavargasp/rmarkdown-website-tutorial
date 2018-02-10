@@ -1,0 +1,38 @@
+---
+title: "Trying Cool Things"
+author: "Camila Vargas"
+date: "2/9/2018"
+output: html_document
+---
+
+Here I just want to try adding things in different formats to see some of the infinite possibilities in this platform.
+
+
+
+## Add a table
+
+
+Table 1: Number of siblings of OHI Fellows
+
+Fellow        | N of siblings
+------------- | -------------
+Iwen          |    1
+Ellie         |    2
+Camila        |    4
+
+
+##Color text
+
+I relly wanted to try this... Love colors!
+
+<font size="3" color="cyan4">This is awsome</font>
+
+<font size="6" color="darkslateblue">I think you can see how exited I am</font>
+
+<font size="3" color="deepskyblue2">Another cool color</font>
+
+
+
+
+
+

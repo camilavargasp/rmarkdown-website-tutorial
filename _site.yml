@@ -12,10 +12,12 @@ navbar:
       href: your_turn.html
     - text: "Me Exploring this site"
       href: me_exploring_this_site.html
+    - text: "Trying Cool Things"
+      href: trying_cool_things.html
 output_dir: "."
 output:
   html_document:
-    theme: cosmo
+    theme: journal
     highlight: textmate
 #    include:
 #      after_body: _footer.html
